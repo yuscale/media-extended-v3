@@ -1,4 +1,4 @@
-Thisbeis a v3.2.6 archive of aidenlx/media-extended. Big thangks to aidenlx。
+This is a v3.2.6 archive of aidenlx/media-extended. Big thanks to aidenlx。
 
 # Media Extended
 
