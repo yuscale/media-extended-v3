@@ -1,3 +1,5 @@
+Thisbeis a v3.2.6 archive of aidenlx/media-extended. Big thangks to aidenlx。
+
 # Media Extended
 
 Enhanced media playback for obsidian.md 🎥📚
